@@ -35,52 +35,76 @@ time.sleep(5)
 
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
 time.sleep(3600)
+print(dt_string, "Parola Girildi.")
 
 os.system('rm geckodriver.log')
 print(dt_string, "geckodriver.log Temizlendi")
