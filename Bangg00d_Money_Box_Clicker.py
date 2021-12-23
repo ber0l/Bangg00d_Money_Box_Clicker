@@ -29,12 +29,59 @@ parola.send_keys("senin_parolan") #parolayi yazdir
 print(dt_string, "Parola Girildi.")
 time.sleep(1)
 browser.find_element_by_xpath('/html/body/div[1]/div/form[1]/ul/li[3]').click() #login butonuna tiklayarak giris yap
-time.sleep(5)
+time.sleep(20)
 browser.get(url) #webdriver uzerinden url'i çagirdik
 time.sleep(5)
+
 browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
-time.sleep(3)
-browser.quit()
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+browser.find_element_by_xpath('/html/body/div[1]/div[1]/div/div[1]/div/div/div[2]/div/div[1]').click() #puanlari toplama butonuna tikla
+time.sleep(3600)
+
 os.system('rm geckodriver.log')
 print(dt_string, "geckodriver.log Temizlendi")
 time.sleep(1)
